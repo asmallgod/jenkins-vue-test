@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Jenkins Test App hahahha" />
+  <HelloWorld msg="Welcome to Jenkins Test App gagaga" />
 </template>
 
 <script>
